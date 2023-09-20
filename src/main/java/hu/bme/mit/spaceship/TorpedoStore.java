@@ -4,6 +4,10 @@ import java.util.Random;
 
 /**
  * 
+<<<<<<< HEAD
+=======
+ * 
+>>>>>>> branch-B
 * Class storing and managing the torpedoes of a ship
 *
 * (Deliberately contains bugs.)
