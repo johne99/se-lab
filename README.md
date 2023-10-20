@@ -1,2 +1,2 @@
 # se-lab
-Szoftvertechnológia második labor
+Szoftvertechnológia második és harmadik labor
